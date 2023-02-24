@@ -1,0 +1,22 @@
+name: LobbyReforged
+version: '1.0-Alpha-HOTFIX'
+main: me.tricolorasp1209.lobbyreforged.LobbyReforged
+api-version: 1.19
+authors: [ TricolorAsp1209 ]
+description: A LobbyCore
+commands:
+  Fly:
+    description: Fly Command
+  GameMode:
+    description: Gamemode Command
+  CoreInfo:
+    description: Core Information
+    aliases:
+      - core
+      - lobby
+      - c
+      - l
+  Vanish:
+    description: Vanish Command
+    aliases:
+      - v
