@@ -4,6 +4,6 @@ LobbyReforged is a Lobby Core
 
 
 
-#LobbyReforged - Commands
+# LobbyReforged - Commands
 
-Coming Soon
+Coming Soon.
