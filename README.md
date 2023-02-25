@@ -1,2 +1,9 @@
 # LobbyReforged
-LobbyReforged Core
+
+LobbyReforged is a Lobby Core
+
+
+
+#LobbyReforged - Commands
+
+Coming Soon
